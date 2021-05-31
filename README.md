@@ -1,4 +1,4 @@
-#  project Alpha / https://project-alpha-tmc.github.io/
+#  project Alpha / [https://project-alpha-tmc.github.io/]
 my first  static website
 in this we provide some free courses provided by big tech companyes like google 
 to go this web site follow the link 
